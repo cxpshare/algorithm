@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * 二分查找
  */
-public class binarySearch {
+public class twoSearch {
     public static void main(String[] args) {
         int[] arr =  {1,2,3,4,5,6};
         System.out.println("请输入需要查询的数字：");
