@@ -1,4 +1,4 @@
-package com.example.test.eg;
+package com.example.exercise.algorithm;
 
 
 import java.util.Scanner;
