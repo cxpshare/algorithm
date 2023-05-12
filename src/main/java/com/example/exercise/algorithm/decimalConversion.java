@@ -19,7 +19,11 @@ import java.util.Scanner;
 public class decimalConversion {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-
-
+        while (in.hasNext()) {
+            String str = in.next().substring(2);
+            int result = Integer.parseInt(str, 16);
+            System.out.println(result);
+        }
+        in.close();
     }
 }
