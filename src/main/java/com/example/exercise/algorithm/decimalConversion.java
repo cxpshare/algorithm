@@ -3,6 +3,8 @@ package com.example.exercise.algorithm;
 import java.util.Scanner;
 
 /**
+ *  进制转换
+ *
  * 描述
  * 写出一个程序，接受一个十六进制的数，输出该数值的十进制表示。
  * 数据范围：保证结果在 1 ≤ n ≤ 2^31 − 1

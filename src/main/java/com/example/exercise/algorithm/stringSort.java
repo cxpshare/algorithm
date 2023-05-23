@@ -4,6 +4,8 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
+ * 字符串排序
+ *
  * 描述
  * 给定 n 个字符串，请对 n 个字符串按照字典序排列。
  * 数据范围：1 ≤ n ≤ 1000，字符串长度满足 1 ≤ len ≤ 100
